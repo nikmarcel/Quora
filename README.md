@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-quora-blueviolet.svg)
+[![Run on Repl.it](https://repl.it/badge/github/tapaswenipathak/Quora)](https://repl.it/github/tapaswenipathak/Quora)
 
 quora
 ======
